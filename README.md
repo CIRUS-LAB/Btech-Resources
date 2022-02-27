@@ -13,7 +13,7 @@ Thanks for all your contributions and efforts towards improving the Btech Resour
 
 ## List of PPT's
 
--[Ceramics](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Ceramics/Ceramics.md#section)
+- [Ceramics](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Ceramics/Ceramics.md#section)
 
 
 ## Contributors
