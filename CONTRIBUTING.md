@@ -2,7 +2,7 @@
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on our [Readme](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/README.md#Contributors) ✨.
 
-## New contributor guide
+## New contributor's guide
 
 To get an overview of the project, read the README. Here are some resources to help you get started with open source contributions:
 
