@@ -23,7 +23,7 @@ To get an overview of the project, read the README. Here are some resources to h
 - Classification
 - etc
 ## Download
-[Ceramics]<link to ppt file>
+[File Name](link to file)
 
 ## Contributors
 
