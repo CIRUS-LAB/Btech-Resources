@@ -23,5 +23,4 @@ Thanks for all your contributions and efforts towards improving the Btech Resour
 
 <img src="https://avatars.githubusercontent.com/u/79042374?v=4" width="70" height="70" />
 Adithya Krishnan 
-<img src="https://avatars.githubusercontent.com/u/79042374?v=4" width="70" height="70" />
-Adithya Krishnan 
+
