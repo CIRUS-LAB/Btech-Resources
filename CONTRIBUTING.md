@@ -32,3 +32,5 @@ To get an overview of the project, read the README. Here are some resources to h
 3.
 
 ```
+### Folder Should be like.
+<img align="center" src="https://github.com/CIRUS-LAB/Btech-Resources/blob/main/img/tutorial1.png" width="300" height="400" />
