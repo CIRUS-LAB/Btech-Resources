@@ -12,4 +12,4 @@ A complete set of resources for Btech Students
 
 
 <img src="https://avatars.githubusercontent.com/u/79042374?v=4" width="70" height="70" />
-1.Adithya Krishnan 
+Adithya Krishnan 
