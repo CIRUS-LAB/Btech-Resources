@@ -15,7 +15,7 @@ To get an overview of the project, read the README. Here are some resources to h
 # File Name
  brief description
  Done by student/students of
- 
+
 ## Topics
 
 - Introduction
