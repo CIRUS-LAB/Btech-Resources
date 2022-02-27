@@ -15,7 +15,7 @@ To get an overview of the project, read the README. Here are some resources to h
 ```Markdown
 # File Name
  brief description
- Done by student/students of
+ Done by student/students of College/Institution Name.
 
 ## Topics
 
