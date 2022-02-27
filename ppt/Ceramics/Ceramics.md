@@ -11,6 +11,9 @@
 - Uses Of Ceramics
 - Advantages and Disadvantages
 
+## Download
+[Ceramics](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Ceramics/Ceramics%208-14%20CS%201%20BCE.pptx)
+
 ## Contributors
 
 1.Adithya Krishnan <br>
