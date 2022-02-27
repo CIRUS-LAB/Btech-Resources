@@ -13,11 +13,11 @@
 
 ## Contributors
 
-1.Adithya Krishnan
-2.Adlu Rahman
-3.Amy Susan Babu
-4.Aman Nair
-5.Anand Abraham
-6.Anishwar
-7.Aravind J.L
+1.Adithya Krishnan <br>
+2.Adlu Rahman <br>
+3.Amy Susan Babu <br>
+4.Aman Nair <br>
+5.Anand Abraham <br>
+6.Anishwar <br>
+7.Aravind J.L <br>
 
