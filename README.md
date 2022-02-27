@@ -11,3 +11,4 @@ A complete set of resources for Btech Students
 ## Contributors
 
 <img align="left" src="https://avatars.githubusercontent.com/u/79042374?v=4" width="70" height="70" />
+Adithya Krishnan
