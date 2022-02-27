@@ -34,6 +34,12 @@ To get an overview of the project, read the README. Here are some resources to h
 3.
 
 ```
+- Add the Following Code at our [list](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/README.md#List).
+```
+
+- [Topic Name](link to <topic>.md file)
+
+```
 - Add the Following Code at the end of readme file.
 ```
 
