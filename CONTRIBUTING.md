@@ -7,7 +7,8 @@ Thank you for investing your time in contributing to our project! Any contributi
 To get an overview of the project, read the README. Here are some resources to help you get started with open source contributions:
 
 ### How?
-- Create a folder with your File name
+- Fork this repo
+- Create a folder with your File name ( In the Frk)
 - Create a .md file for your file.
 - Add a brief description and Contributors list.
 - Template :
@@ -32,5 +33,9 @@ To get an overview of the project, read the README. Here are some resources to h
 3.
 
 ```
+- Add the Following Code at the end of readme file.
+```
+```
+- Open a Pull Request and Wait.
 ### Folder Should be like.
 <img align="center" src="https://github.com/CIRUS-LAB/Btech-Resources/blob/main/img/tutorial1.png"  />
