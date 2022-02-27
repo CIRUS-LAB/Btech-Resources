@@ -4,14 +4,14 @@
 
 ## Topics
 
-- Introduction
+- INTRODUCTION
 - WHY IS PERSONAL INFORMATION IMPORTANT?
 - WHO IS STALKING YOU?!
 - WHAT YOU CAN DO?
-- Conclusion
+- CONCLUSION
 
 ## Download
-[Digital Privacy](link to file)
+[Digital Privacy](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Digital%20Privacy/Digital%20Privacy.pptx)
 
 ## Contributors
 
