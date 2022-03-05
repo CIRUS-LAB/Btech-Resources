@@ -15,6 +15,7 @@ Thanks for all your contributions and efforts towards improving the Btech Resour
 
 - [Ceramics](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Ceramics/Ceramics.md#section)
 - [Digital Privacy](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Digital%20Privacy/Digital%20Privacy.md)
+- [Total Station](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Total%20Station/Total%20Station.md)
 
 
 ## Contributors
