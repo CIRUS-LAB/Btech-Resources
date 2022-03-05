@@ -1,6 +1,6 @@
 # Btech-Resources
 
-This repository contains a complete set of resources for Btech Students
+This repository contains a complete set of all Powerpoint Presentations we created during our Btech course.
 Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## Contributions
