@@ -1,7 +1,6 @@
 # Btech-Resources
 
 This repository contains a complete set of resources for Btech Students
-Btech Resources team works on pre-production content in a private repo that regularly syncs with this public repo.
 Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## Contributions
