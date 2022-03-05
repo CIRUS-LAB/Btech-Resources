@@ -13,4 +13,4 @@
 - -End-
 
 ## Download
-[Total Station](link to file)
+[Total Station](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Total%20Station/Total%20Station.pptx)
