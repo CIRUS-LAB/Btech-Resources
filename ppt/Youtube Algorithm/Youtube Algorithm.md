@@ -18,6 +18,6 @@
 
 ## Contributors
 
-1.Adithya Krishnan
-2.Abhishek Raman
-3.Joel Ipe Samuel
+1.Adithya Krishnan <br>
+2.Abhishek Raman <br>
+3.Joel Ipe Samuel <br>
