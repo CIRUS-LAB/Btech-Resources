@@ -21,22 +21,7 @@ Thanks for all your contributions and efforts towards improving the Btech Resour
 ## Contributors
 
 <!-- readme: fal3n-4ngel,collaborators,ice-weasel,contributors -start -->
-<!-- readme: <fal3n-4ngel>,collaborators,<ice-weasel>,contributors -end -->
-
-## Contributors
-
-<!-- readme: contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/fal3n-4ngel">
-            <img src="https://avatars.githubusercontent.com/u/79042374?v=4" width="100;" alt="fal3n-4ngel"/>
-            <br />
-            <sub><b>Adithya Krishnan</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: contributors -end -->
+<!-- readme: fal3n-4ngel,collaborators,ice-weasel,contributors -end -->
 
 
 
