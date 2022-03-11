@@ -18,12 +18,10 @@ Thanks for all your contributions and efforts towards improving the Btech Resour
 - [Total Station](https://github.com/CIRUS-LAB/Btech-Resources/blob/main/ppt/Total%20Station/Total%20Station.md)
 
 
-## Collaborators
+## Contributors
 
-<!-- readme: collaborators -start -->
-<table>
-</table>
-<!-- readme: collaborators -end -->
+<!-- readme: fal3n-4ngel,collaborators,ice-weasel,contributors -start -->
+<!-- readme: <username1>,collaborators,<username3>,contributors -end -->
 
 ## Contributors
 
