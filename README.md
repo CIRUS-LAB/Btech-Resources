@@ -21,7 +21,7 @@ Thanks for all your contributions and efforts towards improving the Btech Resour
 ## Contributors
 
 <!-- readme: fal3n-4ngel,collaborators,ice-weasel,contributors -start -->
-<!-- readme: <username1>,collaborators,<username3>,contributors -end -->
+<!-- readme: <fal3n-4ngel>,collaborators,<ice-weasel>,contributors -end -->
 
 ## Contributors
 
