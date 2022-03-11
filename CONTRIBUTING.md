@@ -42,6 +42,8 @@ To get an overview of the project, read the README. Here are some resources to h
 ```
 
 - Open a Pull Request and Wait.
- 
+
+## NB
+Try to upload the ppt file, If acces is denied or any other unforseen errors occur, Pls upload the file someplace else and add the link in the ".md" file.
 ### Folder Should be like.
 <img align="center" src="https://github.com/CIRUS-LAB/Btech-Resources/blob/main/img/tutorial1.png"  />
