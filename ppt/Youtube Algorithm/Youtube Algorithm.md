@@ -3,14 +3,14 @@
  Done by student/students of College/Institution Name.
 
 ## Topics
--YouTube <br>
--YouTube Algorithm <br>
--History Of YouTube Algorithm <br>
--How Does YouTube Algorithm Work? <br>
--Factors Affecting YouTube Algorithm. <br>
--YouTube Algorithm And Creators. <br>
--Privacy on YouTube. <br>
--Impact On Our Lives. <br>
+ -YouTube <br>
+ -YouTube Algorithm <br>
+ -History Of YouTube Algorithm <br>
+ -How Does YouTube Algorithm Work? <br>
+ -Factors Affecting YouTube Algorithm. <br>
+ -YouTube Algorithm And Creators. <br>
+ -Privacy on YouTube. <br>
+ -Impact On Our Lives. <br>
 
 
 ## Download
@@ -18,6 +18,6 @@
 
 ## Contributors
 
-1.Adithya Krishnan <br>
-2.Abhishek Raman <br>
-3.Joel Ipe Samuel <br>
+ 1.Adithya Krishnan <br>
+ 2.Abhishek Raman <br>
+ 3.Joel Ipe Samuel <br>
