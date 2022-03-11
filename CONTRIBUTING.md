@@ -40,13 +40,7 @@ To get an overview of the project, read the README. Here are some resources to h
 - [Topic Name](link to <topic>.md file)
 
 ```
-- Add the Following Code at the end of readme file.
-```
 
-<img src="link to yor profile pic" width="70" height="70" />
-Your Name
-
-```
 - Open a Pull Request and Wait.
  
 ### Folder Should be like.
